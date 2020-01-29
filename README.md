@@ -38,3 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 **Cheatsheets:**
 https://p.cygnus.cc.kuleuven.be/webapps/blackboard/execute/displayIndividualContent?mode=reset&content_id=_26525256_1&course_id=_926752_1
+
+Dockervideo: https://www.youtube.com/watch?v=YFl2mCHdv24&feature=youtu.be
